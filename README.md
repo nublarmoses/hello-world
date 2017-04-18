@@ -1,2 +1,4 @@
 # hello-world
-Just another repository
+
+NewWorld begins here. Say hello. This is a clean slate.
+**This is an empty canvas**
